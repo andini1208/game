@@ -1,0 +1,15 @@
+body {
+    background-color: #eef;
+    scroll-behavior: smooth;
+  }
+  canvas {
+    background: skyblue;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #333;
+    border-radius: 10px;
+  }
+  #gameOverPanel {
+    max-width: 300px;
+    margin: 20px auto 0;
+  }
